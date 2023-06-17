@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="styles.css">
+    <title>Technical Documentation Page</title>
+  </head
+<h1></h1>
+     <nav id="navbar">
+      <header>navbar</header>
+      <a class="nav-link" href="#text1">text1</a>
+      <a class="nav-link" href="#text2">text2</a>
+      <a class="nav-link" href="#text3">text3</a>
+      <a class="nav-link" href="#text4">text4</a>
+      <a class="nav-link" href="#text5">text5</a>
+    </nav>
+
+<main id="main-doc">
+  <section class="main-section" id="text1">
+    <header>text1</header>
+    <p><code></code></p>
+    <p><code></code></p>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </section>
+
+  <section class="main-section" id="text2">
+    <header>text2</header>
+    <p><code></code></p>
+    <p><code></code></p>
+  </section>
+
+  <section class="main-section" id="text3">
+    <header>text3</header>
+    <p><code></code></p>
+    <p><code></code></p>
+  </section>
+
+  <section class="main-section" id="text4">
+    <header>text4</header>
+    <p><code></code></p>
+    <p><code></code></p>
+  </section>
+
+  <section class="main-section" id="text5">
+    <header>text5</header>
+    <p><code></code></p>
+    <p><code></code></p>
+  </section>
+  
+</main>
