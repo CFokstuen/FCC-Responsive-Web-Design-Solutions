@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="tribute page" content="tribute page freecodecamp project" />
+  <title>Tribute Page</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="main">
+    <h1 id="title">Tribute Page</h1>
+    <h2><em>Title</em></h2>
+    <div id="img-div">
+      <img id="image" src="img." alt="" />
+      <figcaption id="img-caption">img</figcaption>
+    </div>
+    <div id="tribute-info">
+      <ul>
+        <li><strong>Info 1:</strong> Lorem ipsum</li>
+        <li>Info 2: Lorem ipsum</li>
+        <li>Info 3: Lorem ipsum</li>
+        <li>Info 4: Lorem ipsum</li>
+        <li>Info 5: Lorem ipsum</li>
+        <li>Info 6: Lorem ipsum</li>
+        <li>Info 7: Lorem ipsum</li>
+        <li>Info 8: Lorem ipsum</li>
+        <li>Info 9: Lorem ipsum</li>
+        <li>Info 10: Lorem ipsum</li>
+        <li>Info 11: Lorem ipsum</li>
+        <li>Info 12: Lorem ipsum</li>
+        <li>Info 13: Lorem ipsum</li>
+        <li>Info 14: Lorem ipsum</li>
+        <li>Info 15: Lorem ipsum</li>
+      </ul>
+    </div>
+    <div><a id="tribute-link" target="_blank" href="https://example.com">Visit Website</a></div>
+    <blockquote cite=""></blockquote>
+    <footer><cite>Footer text</cite></footer>
+    <footer>
+      <p><a href="https://www.freecodecamp.org/">freecodeCamp</a><a href=""></a></p>
+    </footer>
+  </main>
+</body>
+</html>
